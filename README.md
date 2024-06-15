@@ -17,4 +17,4 @@ O vídeo é uma pequena amostra do potencial para o uso das IAs Generativas na p
 [LINK PARA O VÍDEO AQUI]()
 
 ## 💭 Reflexão
-Este laboratório foi uma primeira experiência utilizando as IAs Generativas para criar um vídeo. Muito fácil e o resultado, ainda que precise de melhorias, foi muito interessante. Observar que foi utiizada a versão "free" da "D-ID", portanto, com rescursos limitados.
+Este laboratório foi uma primeira experiência utilizando as IAs Generativas para criar um vídeo. Muito fácil e o resultado, ainda que precise de melhorias, foi muito interessante. Observar que foi utilizada a versão "free" da "D-ID", portanto, com rescursos limitados.
